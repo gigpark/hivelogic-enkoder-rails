@@ -77,6 +77,6 @@ its permanent page on the web:
 
 h2. License:
 
-Copyright (c) 2009 Hivelogic C0rporation
+Copyright (c) 2009 Hivelogic Corporation
 
 This plugin is released under the GPL license.  See LICENSE file for details.
